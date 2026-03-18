@@ -89,10 +89,10 @@ Used to optimize model performance and select the best parameters.
 ## 📊 Visualizations
 
 Some important visualizations include:
-- Heart Disease Frequency vs Sex
-- Age vs Maximum Heart Rate
-- Heart Disease vs Chest Pain Type
-- Feature distributions
+![Heart Disease Frequency vs Sex](plots/Heart%20Disease%20Frequency%20vs%20Sex.png)
+![Age vs Maximum Heart Rate](plots/Age%20vs%20Maximum%20Heart%20Rate.png)
+![Heart Disease vs Chest Pain Type](plots/Heart%20Disease%20vs%20Chest%20Pain%20Type.png)
+![Feature importance](plots/Features%20Importance.png)
 
 ## Key Learnings
 
